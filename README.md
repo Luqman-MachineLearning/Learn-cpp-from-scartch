@@ -254,9 +254,7 @@
       <constructor> + Person()
       <constructor> + Person(a: int)
       ```
-88. [OOP] Inheritance: https://github.com/Rustam-Z/cpp-programming/tree/main/OOP2_Lab6
-89. [OOP] Encapsulation: https://github.com/Rustam-Z/cpp-programming/tree/main/OOP2_Lab7
-
+   
     Write a C++ menu-driven program to get employee details, display employee details, and display monthly salary details of employees.****
 
     ```cpp
@@ -277,7 +275,7 @@
     + getRate_per_Hour(): int 
     + getTotal_Monthly_Salary(): double
     ```
-91. [OOP] Polymorphism: https://github.com/Rustam-Z/cpp-programming/tree/main/OOP2_Lab8
+  
 
 **More questions can be found in the LAB folders above.**    
 
